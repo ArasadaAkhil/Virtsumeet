@@ -1,0 +1,10 @@
+VoxEngine.addEventListener(AppEvents.CallAlerting, (e) => {
+  const newCall = VoxEngine.callUserDirect(
+    e.call, 
+    e.destination,
+    e.callerid,
+    e.displayName,
+    null
+  );
+  VoxEngine.easyProcess(e.call, newCall, ()=>{}, true);
+});
