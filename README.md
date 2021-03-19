@@ -13,3 +13,7 @@ Scenario Code.txt – Is the code for the Scenarios section that will be used by
 **Voximplant Unity SDK**
 
 Download latest Voximplant Unity SDK from https://github.com/voximplant/unity_sdk/releases
+
+**Chrome extension to host Voximplant WEB App**
+
+Web Server for Chrome - https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb/related?hl=en
