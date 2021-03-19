@@ -8,6 +8,6 @@ VoximplantUntiyARDemoApp – Has all the assets required to build the AR app.
 VoximplantVideochatWEB – Has the WEB App that will be used for callee (TestUser2)
 Scenario Code.txt – Is the code for the Scenarios section that will be used by your Voximplant Application for making and receiving calls.
 
-**Voximplant Unity SDK **
+**Voximplant Unity SDK**
 
 Download latest Voximplant Unity SDK from GitHub Releases
